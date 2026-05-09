@@ -37,7 +37,7 @@ Performed exploratory data analysis to identify customer behavior patterns.
 
 ## Experience
 - Data Analytics Student at TS    Academy 2026 Phoenix Cohort(Alumni)
-- NYSC 2026 Batch A3 Volunteer for Camp Evaluation(Analysis)
+- NYSC 2026 Batch A2 Volunteer for Camp Evaluation(Analysis)
 - Mathematics Tutor
 - Air Force Secondary School Makurdi
 - Davids Royal Academy
