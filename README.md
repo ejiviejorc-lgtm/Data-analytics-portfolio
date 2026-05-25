@@ -36,7 +36,8 @@ Performed exploratory data analysis to identify customer behavior patterns.
 ---
 
 ## Experience
-- Data Analytics Student at TS    Academy 2026 Phoenix Cohort(Alumni)
+- Data Analytics Student at TS          Academy 2026 Phoenix Cohort(Alumni)
+- 3MTT Nextgen Fellow
 - Data analytics Intern at Decode Labs
 - Data analytics Intern at Code Alpha 
 - NYSC 2026 Batch A2 Volunteer for Camp Evaluation(Analysis)
